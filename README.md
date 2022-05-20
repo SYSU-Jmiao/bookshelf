@@ -12,7 +12,7 @@ Virtual bookshelf for math and computer science.
 ## Code
 * [C++程序设计语言](./Code/C++/C++语言程序设计.epub)
 * [C专家编程](./Code/C++/C专家编程.pdf)
-* [CUDA C编程权威指南](./Code/Cuda/CUDA%20C编程权威指南.pdf))
+* [CUDA C编程权威指南](./Code/Cuda/CUDA%20C编程权威指南.pdf)
 * [Java语言程序设计](./Code/Java/Java语言程序设计.pdf)
 * [实用Common Lisp编程](./Code/Lisp/实用Common%20Lisp编程.pdf)
 * [Rust程序设计](./Code/Rust/Rust程序设计.pdf)
