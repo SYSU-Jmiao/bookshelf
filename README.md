@@ -1,6 +1,6 @@
 # bookshelf
 
-Virtual bookshelf for mathematics and computer science.
+Virtual bookshelf for math and computer science.
 
 面向数学与计算机科学领域的个人虚拟书架。
 
