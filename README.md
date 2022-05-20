@@ -45,7 +45,7 @@ Virtual bookshelf for math and computer science.
 * [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
 
 ## 阅读器
-* neat-reader（支持阅读`.epub`格式电子书）
+* [neat-reader](https://www.neat-reader.cn/webapp#/)（支持阅读`.epub`格式电子书）
 * VSCode（下载`vscode-pdf`插件即可）
 
 ## 参考学习
