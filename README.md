@@ -35,7 +35,7 @@ Virtual bookshelf for math and computer science.
 ## Python
 * [Python语言及其应用](./Python/Python语言及其应用.pdf)
 * [流畅的Python](./Python/流畅的Python.pdf)
-* [Python性能分析与分析](./Python/Python性能分析与优化.epub)
+* [Python性能优化与分析](./Python/Python性能分析与优化.epub)
 * [Python Cookbook](./Python/Python-Cookbook.pdf)
 * [Python网络编程攻略](./Python/Python网络编程攻略.pdf)
 * [Python测试驱动开发](./Python/Python测试驱动开发.pdf)
