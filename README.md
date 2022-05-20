@@ -2,7 +2,7 @@
 
 Virtual bookshelf for math and computer science.
 
-面向数学与计算机科学领域的个人虚拟书架。
+面向数学与计算机科学领域的虚拟书架。
 
 ## Git
 * [Git版本控制管理](https://www.neat-reader.cn/webapp#/pdfreader?bookguid=471ac0e9-5a66-41d4-9f3a-f4d5f146fb50)
