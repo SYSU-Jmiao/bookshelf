@@ -46,8 +46,12 @@ Virtual bookshelf for math and computer science.
 * [鸟哥的Linux私房菜：基础学习篇](https://www.neat-reader.cn/webapp#/pdfreader?bookguid=7689bfb9-c297-4592-98e5-5ccda6c344ef)
 
 ## 阅读器
-* [neat-reader](https://www.neat-reader.cn/webapp#/)（支持阅读`.epub`格式电子书）
+* neat-reader（支持阅读`.epub`格式电子书）
 * VSCode（下载`vscode-pdf`插件即可）
+
+## 注意事项
+
+由于`pdf`文件体积太大，不便于上传。如果有需要的，请速与[我](https://github.com/linjing-lab)联系。
 
 ## 参考学习
 * [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
