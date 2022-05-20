@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Code/
+Data/
+Git/
+Linux/
+Python/
 
 # C extensions
 *.so
