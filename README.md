@@ -50,8 +50,8 @@ Virtual bookshelf for math and computer science.
 * VSCode（下载`vscode-pdf`插件即可）
 
 ## 注意事项
-
-由于`pdf`文件体积太大，不便于上传。如果有需要的，请速与[我](https://github.com/linjing-lab)联系。
+* `net-reader`云端缓存有限，想要进一步学习的可以选择注册账号
+* 由于`pdf`文件体积太大，不便于上传。如果有需要的，请速与[我](https://github.com/linjing-lab)联系。
 
 ## 参考学习
 * [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
