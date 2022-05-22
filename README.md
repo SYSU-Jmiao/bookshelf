@@ -56,6 +56,8 @@ Virtual bookshelf for math and computer science.
 ## Linux
 * [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
 * [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
+* [Linux/UNIX系统编程手册](./Linux/Linux-UNIX系统编程手册.pdf)
+* [UNIX环境高级编程](./Linux/UNIX环境高级编程.epub)
 
 ## 阅读器
 * [neat-reader](https://www.neat-reader.cn/webapp#/)（支持阅读`.epub`格式电子书）
