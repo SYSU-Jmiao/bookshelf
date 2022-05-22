@@ -49,9 +49,13 @@ Virtual bookshelf for math and computer science.
 
 ## Lisp
 * [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
+* [Common Lisp Recipes: A Problem Solution Approach](./Lisp/CommonLisp-Recipes_A-Problem-Solution-Approach.pdf)
+* [Interpret Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
+* [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land%20of%20Lisp%20Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
 
 ## Rust
 * [Rust程序设计](./Rust/Rust程序设计.pdf)
+* [精通Rust](./Rust/精通Rust.pdf)
 
 ## Linux
 * [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
