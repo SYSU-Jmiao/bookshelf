@@ -10,9 +10,12 @@ Virtual bookshelf for math and computer science.
 * [SQL必知必会](./AI/SQL必知必会.pdf)
 * [Excel圣经](./AI/Excel-Bible.pdf)
 * [精通特征工程](./AI/精通特征工程.pdf)
+* [机器学习 西瓜书](./AI/机器学习%20西瓜书.pdf)
 * [机器学习实战](./AI/机器学习实战.pdf)
+* [精通机器学习：基于R](./AI/精通机器学习：基于R.epub)
 * [深度学习 花书](./AI/深度学习-花书.pdf)
 * [动手学深度学习](./AI/动手学深度学习.pdf)
+* [XGBoost with Python](./AI/XGBoost%20with%20Python%20Gradient%20Boosted%20Trees%20with%20XGBoost%20and%20scikit-learn.pdf)
 * [数据科学实战](./AI/数据科学实战.pdf)
 * [Visual-Data-Storytelling-with-Tableau](./AI/Tableau-Visual-AI-Storytelling.pdf)
 * [OpenCV计算机视觉编程攻略](./AI/OpenCV计算机视觉.pdf)
@@ -45,17 +48,18 @@ Virtual bookshelf for math and computer science.
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
 * [Java编程思想](./Java/Java编程思想.pdf)
-* [大话设计模式](Java/大话设计模式.pdf)
+* [Java技术手册](./Java/Java技术手册%20第6版.epub)
 
 ## Lisp
 * [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
-* [Common Lisp Recipes: A Problem Solution Approach](./Lisp/CommonLisp-Recipes_A-Problem-Solution-Approach.pdf)
+* [Common Lisp Recipes: A Problem Solution Approach](./Lisp/Common-Lisp-Recipes_A-Problem-Solution-Approach.pdf)
 * [Interpret Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
-* [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land%20of%20Lisp%20Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
+* [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land-of-Lisp_Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
 
 ## Rust
 * [Rust程序设计](./Rust/Rust程序设计.pdf)
 * [精通Rust](./Rust/精通Rust.pdf)
+* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
 
 ## Linux
 * [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
