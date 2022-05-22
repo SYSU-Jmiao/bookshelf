@@ -25,9 +25,9 @@ Virtual bookshelf for math and computer science.
 * [精通Git](./Git/PROGIT.pdf)
 
 ## C/C++
-* [C++程序设计语言](./C++/C++语言程序设计.epub)
 * [C专家编程](./C++/C专家编程.pdf)
 * [C和指针](./C++/C和指针.epub)
+* [C++程序设计语言](./C++/C++语言程序设计.epub)
 
 ## CUDA
 * [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
