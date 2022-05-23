@@ -67,7 +67,9 @@ Virtual bookshelf for math and computer science.
 * [Rust程序设计](./Rust/Rust程序设计.pdf)
 * [精通Rust](./Rust/精通Rust.pdf)
 * [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
-* [Speed Up Your Python with Rust Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
+* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
+* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
+* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
 
 ## Linux
 * [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
