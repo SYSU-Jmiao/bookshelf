@@ -20,6 +20,7 @@ Virtual bookshelf for math and computer science.
 * [Visual-Data-Storytelling-with-Tableau](./AI/Tableau-Visual-Data-Storytelling.pdf)
 * [OpenCV计算机视觉编程攻略](./AI/OpenCV计算机视觉.pdf)
 * [深度学习进阶：自然语言处理](./AI/自然语言处理.pdf)
+* [NLTK基础教程：用NLTK和Python库构建机器学习应用](./AI/NLTK基础教程%20用NLTK和Python库构建机器学习应用.pdf)
 * [The-Kaggle-Book](./AI/Kaggle-Book.pdf)
 
 ## Git
@@ -31,6 +32,8 @@ Virtual bookshelf for math and computer science.
 * [C专家编程](./C++/C专家编程.pdf)
 * [C和指针](./C++/C和指针.epub)
 * [C++程序设计语言](./C++/C++语言程序设计.epub)
+* [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
+* [C++模板元编程实战：一个深度学习框架的初步实现](./C++/C++模板元编程实战：一个深度学习框架的初步实现.pdf)
 
 ## CUDA
 * [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
@@ -43,12 +46,16 @@ Virtual bookshelf for math and computer science.
 * [Python Cookbook](./Python/Python-Cookbook.pdf)
 * [Python网络编程攻略](./Python/Python网络编程攻略.pdf)
 * [Python测试驱动开发](./Python/Python测试驱动开发.pdf)
+* [Python设计模式](./Python/Python设计模式.epub)
 * [Python项目开发实战](./Python/Python项目开发实战%20第2版.epub)
+* [PyQt 5快速开发与实战](./Python/PyQt%205快速开发与实战.epub)
 
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
 * [Java编程思想](./Java/Java编程思想.pdf)
 * [Java技术手册](./Java/Java技术手册%20第6版.epub)
+* [Java机器学习](./Java/Java机器学习.pdf)
+* [深度学习搜索引擎开发 Java实现](./Java/深度学习搜索引擎开发%20Java实现.pdf)
 
 ## Lisp
 * [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
