@@ -60,7 +60,7 @@ Virtual bookshelf for math and computer science.
 ## Lisp
 * [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
 * [Common Lisp Recipes: A Problem Solution Approach](./Lisp/Common-Lisp-Recipes_A-Problem-Solution-Approach.pdf)
-* [Interpret Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
+* [Interpreting Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
 * [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land-of-Lisp_Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
 
 ## Rust
