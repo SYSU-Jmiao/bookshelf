@@ -39,6 +39,7 @@ Virtual bookshelf for math and computer science.
 * [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
 * [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
 * [C++模板元编程实战：一个深度学习框架的初步实现](./C++/C++模板元编程实战：一个深度学习框架的初步实现.pdf)
+* [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
 
 ## CUDA
 * [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
@@ -54,6 +55,7 @@ Virtual bookshelf for math and computer science.
 * [Python设计模式](./Python/Python设计模式.epub)
 * [Python项目开发实战](./Python/Python项目开发实战%20第2版.epub)
 * [PyQt 5快速开发与实战](./Python/PyQt%205快速开发与实战.epub)
+* [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
