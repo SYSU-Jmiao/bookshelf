@@ -19,6 +19,7 @@ Virtual bookshelf for math and computer science.
 * [数据科学实战](./AI/数据科学实战.pdf)
 * [Visual-Data-Storytelling-with-Tableau](./AI/Tableau-Visual-Data-Storytelling.pdf)
 * [OpenCV计算机视觉编程攻略](./AI/OpenCV计算机视觉.pdf)
+* [Deep Learning Interviews](./AI/Deep%20Learning%20Interviews.pdf)
 * [深度学习进阶：自然语言处理](./AI/自然语言处理.pdf)
 * [NLTK基础教程：用NLTK和Python库构建机器学习应用](./AI/NLTK基础教程%20用NLTK和Python库构建机器学习应用.pdf)
 * [The-Kaggle-Book](./AI/Kaggle-Book.pdf)
