@@ -13,6 +13,7 @@ Virtual bookshelf for math and computer science.
 * [机器学习 西瓜书](./AI/机器学习%20西瓜书.pdf)
 * [机器学习实战](./AI/机器学习实战.pdf)
 * [精通机器学习：基于R](./AI/精通机器学习：基于R.epub)
+* [R Packages: Organize, Test, Document, and Share Your Code](./AI/R%20Packages%20Organize,%20Test,%20Document,%20and%20Share%20Your%20Code.pdf)
 * [深度学习 花书](./AI/深度学习-花书.pdf)
 * [动手学深度学习](./AI/动手学深度学习.pdf)
 * [XGBoost with Python](./AI/XGBoost%20with%20Python%20Gradient%20Boosted%20Trees%20with%20XGBoost%20and%20scikit-learn.pdf)
@@ -22,6 +23,7 @@ Virtual bookshelf for math and computer science.
 * [Deep Learning Interviews](./AI/Deep%20Learning%20Interviews.pdf)
 * [深度学习进阶：自然语言处理](./AI/自然语言处理.pdf)
 * [NLTK基础教程：用NLTK和Python库构建机器学习应用](./AI/NLTK基础教程%20用NLTK和Python库构建机器学习应用.pdf)
+* [Python Deep Learning](./AI/Python%20Deep%20Learning%20Exploring%20deep%20learning%20techniques,%20neural%20network%20architectures%20and%20GANs%20with%20PyTorch,%20Keras%20and....pdf)
 * [深度学习推荐系统](./AI/深度学习推荐系统.epub)
 * [The-Kaggle-Book](./AI/Kaggle-Book.pdf)
 
