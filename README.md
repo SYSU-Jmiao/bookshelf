@@ -22,6 +22,7 @@ Virtual bookshelf for math and computer science.
 * [Deep Learning Interviews](./AI/Deep%20Learning%20Interviews.pdf)
 * [深度学习进阶：自然语言处理](./AI/自然语言处理.pdf)
 * [NLTK基础教程：用NLTK和Python库构建机器学习应用](./AI/NLTK基础教程%20用NLTK和Python库构建机器学习应用.pdf)
+* [深度学习推荐系统](./AI/深度学习推荐系统.epub)
 * [The-Kaggle-Book](./AI/Kaggle-Book.pdf)
 
 ## Git
