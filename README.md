@@ -1,4 +1,4 @@
-# bookshelf
+# bookshelf📦
 
 Virtual bookshelf for math and computer science.
 
