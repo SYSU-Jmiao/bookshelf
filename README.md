@@ -61,7 +61,6 @@ Virtual bookshelf for math and computer science.
 
 ## Math
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
-* [Numerical Analysis](./Math/Numerical%20Analysis.pdf)
 * [Matrix Computations](./Math/Matrix%20Computations.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
 * [矩阵计算讲义（仅供课堂使用）](./Math/矩阵计算讲义.pdf)
