@@ -100,11 +100,8 @@ Virtual bookshelf for math and computer science.
 * VSCode（下载`vscode-pdf`插件即可）
 
 ## 参考学习
-* [AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-* [optimtool](https://github.com/linjing-lab/optimtool)
-* [darknet](https://github.com/pjreddie/darknet)
-* [pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)
-* [joyful-pandas](https://github.com/datawhalechina/joyful-pandas)
+
+[AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | [Datumbox](https://github.com/datumbox/datumbox-framework) | [Nalgebra](https://github.com/dimforge/nalgebra) | [Tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | [XGBoost](https://github.com/dmlc/xgboost) | [Neuronika](https://github.com/neuronika/neuronika) | [Darknet](https://github.com/pjreddie/darknet) | [pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)
 
 ## LICENSE
 [MIT LICENSE](./LICENSE)
