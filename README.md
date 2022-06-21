@@ -59,6 +59,14 @@ Virtual bookshelf for math and computer science.
 * [PyQt 5快速开发与实战](./Python/PyQt%205快速开发与实战.epub)
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 
+## Math
+* [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
+* [Numerical Analysis](./Math/Numerical%20Analysis.pdf)
+* [Matrix Computations](./Math/Matrix%20Computations.pdf)
+* [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
+* [矩阵计算讲义（仅供课堂使用）](./Math/矩阵计算讲义.pdf)
+* [微分几何 彭家贵](./Math/微分几何.pdf)
+
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
 * [Java编程思想](./Java/Java编程思想.pdf)
