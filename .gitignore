@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 Zlibrary.txt
+Math/矩阵计算讲义.pdf
 
 # C extensions
 *.so
