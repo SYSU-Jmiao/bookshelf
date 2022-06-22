@@ -64,6 +64,9 @@ Virtual bookshelf for math and computer science.
 * [Matrix Computations](./Math/Matrix%20Computations.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
+* [矩阵计算讲义](./Math/矩阵计算讲义.pdf)
+* [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
+* [Optimization modelling: a practical approach](./Math/Optimization%20modelling%20a%20practical%20approach.pdf)
 
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
