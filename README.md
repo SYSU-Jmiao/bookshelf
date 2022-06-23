@@ -60,6 +60,7 @@ Virtual bookshelf for math and computer science.
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 
 ## Math
+* [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
 * [Matrix Computations](./Math/Matrix%20Computations.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
