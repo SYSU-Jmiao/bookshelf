@@ -60,13 +60,17 @@ Virtual bookshelf for math and computer science.
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 
 ## Math
+* [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
 * [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
 * [Matrix Computations](./Math/Matrix%20Computations.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
+* [Discrete Mathematics and Its Applications](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
+* [A Textbook of Graph Theory](./Math/A%20Textbook%20of%20Graph%20Theory.pdf)
+* [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
+* [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
 * [矩阵计算讲义](./Math/矩阵计算讲义.pdf)
-* [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
 * [Optimization modelling](./Math/Optimization%20modelling%20a%20practical%20approach.pdf)
 
 ## Java
