@@ -8,6 +8,7 @@ Virtual bookshelf for math and computer science.
 * [统计学 第六版](./AI/统计学.pdf)
 * [Python数据处理](./AI/Python数据处理.epub)
 * [SQL必知必会](./AI/SQL必知必会.pdf)
+* [深入浅出Pandas：利用Python进行数据处理与分析](./AI/深入浅出Pandas：利用Python进行数据处理与分析.pdf)
 * [Excel圣经](./AI/Excel-Bible.pdf)
 * [精通特征工程](./AI/精通特征工程.pdf)
 * [机器学习 西瓜书](./AI/机器学习%20西瓜书.pdf)
