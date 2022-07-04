@@ -43,6 +43,7 @@ Virtual bookshelf for math and computer science.
 * [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
 * [C++模板元编程实战：一个深度学习框架的初步实现](./C++/C++模板元编程实战：一个深度学习框架的初步实现.pdf)
 * [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
+* [C高级编程：基于模块化设计思想的C语言开发](./C++/C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91.epub)
 
 ## CUDA
 * [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
@@ -59,6 +60,7 @@ Virtual bookshelf for math and computer science.
 * [Python项目开发实战](./Python/Python项目开发实战%20第2版.epub)
 * [PyQt 5快速开发与实战](./Python/PyQt%205快速开发与实战.epub)
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
+* [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
 
 ## Math
 * [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
@@ -73,6 +75,7 @@ Virtual bookshelf for math and computer science.
 * [微分几何 彭家贵](./Math/微分几何.pdf)
 * [矩阵计算讲义](./Math/矩阵计算讲义.pdf)
 * [Optimization modelling](./Math/Optimization%20modelling%20a%20practical%20approach.pdf)
+* [量子力学教程](./Math/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%95%99%E7%A8%8B.pdf)
 
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
