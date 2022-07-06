@@ -76,6 +76,7 @@ Virtual bookshelf for math and computer science.
 * [矩阵计算讲义](./Math/矩阵计算讲义.pdf)
 * [Optimization modelling](./Math/Optimization%20modelling%20a%20practical%20approach.pdf)
 * [量子力学教程](./Math/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%95%99%E7%A8%8B.pdf)
+* [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
 
 ## Java
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
