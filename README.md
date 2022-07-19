@@ -16,6 +16,7 @@ Virtual bookshelf for math and computer science.
 * [精通机器学习：基于R](./AI/精通机器学习：基于R.epub)
 * [R Packages: Organize, Test, Document, and Share Your Code](./AI/R%20Packages%20Organize,%20Test,%20Document,%20and%20Share%20Your%20Code.pdf)
 * [深度学习 花书](./AI/深度学习-花书.pdf)
+* [神经网络与深度学习 邱锡鹏著](./AI/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E9%82%B1%E9%94%A1%E9%B9%8F%E8%91%97.pdf)
 * [动手学深度学习](./AI/动手学深度学习.pdf)
 * [XGBoost with Python](./AI/XGBoost%20with%20Python%20Gradient%20Boosted%20Trees%20with%20XGBoost%20and%20scikit-learn.pdf)
 * [数据科学实战](./AI/数据科学实战.pdf)
