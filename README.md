@@ -12,6 +12,7 @@ Virtual bookshelf for math and computer science.
 * [Excel圣经](./AI/Excel-Bible.pdf)
 * [精通特征工程](./AI/精通特征工程.pdf)
 * [机器学习 西瓜书](./AI/机器学习%20西瓜书.pdf)
+* [手把手带你学懂SVM 张皓著](./AI/%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E5%AD%A6%E6%87%82%20SVM%20%E5%BC%A0%E7%9A%93%E8%91%97.pdf)
 * [机器学习实战](./AI/机器学习实战.pdf)
 * [精通机器学习：基于R](./AI/精通机器学习：基于R.epub)
 * [R Packages: Organize, Test, Document, and Share Your Code](./AI/R%20Packages%20Organize,%20Test,%20Document,%20and%20Share%20Your%20Code.pdf)
