@@ -29,6 +29,7 @@ Virtual bookshelf for math and computer science.
 * [Python Deep Learning](./AI/Python%20Deep%20Learning%20Exploring%20deep%20learning%20techniques,%20neural%20network%20architectures%20and%20GANs%20with%20PyTorch,%20Keras%20and....pdf)
 * [深度学习推荐系统](./AI/深度学习推荐系统.epub)
 * [The-Kaggle-Book](./AI/Kaggle-Book.pdf)
+* [Algorithms and Data Structures for Massive Datasets](./AI/Algorithms%20and%20Data%20Structures%20for%20Massive%20Datasets.epub)
 
 ## Git
 * [Git版本控制管理](./Git/Git版本控制管理.pdf)
