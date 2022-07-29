@@ -5,6 +5,7 @@ Virtual bookshelf for math and computer science.
 面向数学与计算机科学领域的虚拟书架。
 
 ## AI
+
 * [统计学 第六版](./AI/统计学.pdf)
 * [Python数据处理](./AI/Python数据处理.epub)
 * [SQL必知必会](./AI/SQL必知必会.pdf)
@@ -32,11 +33,13 @@ Virtual bookshelf for math and computer science.
 * [Algorithms and Data Structures for Massive Datasets](./AI/Algorithms%20and%20Data%20Structures%20for%20Massive%20Datasets.epub)
 
 ## Git
+
 * [Git版本控制管理](./Git/Git版本控制管理.pdf)
 * [Git团队协作](./Git/Git团队协作.pdf)
 * [精通Git](./Git/PROGIT.pdf)
 
 ## C/C++
+
 * [C专家编程](./C++/C专家编程.pdf)
 * [C和指针](./C++/C和指针.epub)
 * [C语言程序设计：零基础ACMICPC竞赛实战](./C++/C语言程序设计：零基础ACMICPC竞赛实战.pdf)
@@ -49,10 +52,12 @@ Virtual bookshelf for math and computer science.
 * [C高级编程：基于模块化设计思想的C语言开发](./C++/C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91.epub)
 
 ## CUDA
+
 * [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
 * [CUDA专家手册：GPU编程权威指南](./CUDA/CUDA专家手册：GPU编程权威指南.epub)
 
 ## Python
+
 * [Python语言及其应用](./Python/Python语言及其应用.pdf)
 * [流畅的Python](./Python/流畅的Python.pdf)
 * [Python性能优化与分析](./Python/Python性能分析与优化.epub)
@@ -66,6 +71,7 @@ Virtual bookshelf for math and computer science.
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
 
 ## Math
+
 * [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
 * [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
@@ -82,19 +88,15 @@ Virtual bookshelf for math and computer science.
 * [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
 
 ## Java
+
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
 * [Java编程思想](./Java/Java编程思想.pdf)
 * [Java技术手册](./Java/Java技术手册%20第6版.epub)
 * [Java机器学习](./Java/Java机器学习.pdf)
 * [深度学习搜索引擎开发 Java实现](./Java/深度学习搜索引擎开发%20Java实现.pdf)
 
-## Lisp
-* [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
-* [Common Lisp Recipes: A Problem Solution Approach](./Lisp/Common-Lisp-Recipes_A-Problem-Solution-Approach.pdf)
-* [Interpreting Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
-* [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land-of-Lisp_Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
-
 ## Rust
+
 * [精通Rust](./Rust/精通Rust.pdf)
 * [Rust程序设计](./Rust/Rust程序设计.pdf)
 * [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
@@ -103,19 +105,35 @@ Virtual bookshelf for math and computer science.
 * [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
 
 ## Linux
+
 * [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
 * [bash shell脚本编程经典实例](./Linux/bash%20shell脚本编程经典实例.pdf)
 * [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
 * [Linux/UNIX系统编程手册](./Linux/Linux-UNIX系统编程手册.pdf)
 * [UNIX环境高级编程](./Linux/UNIX环境高级编程.epub)
 
+## Lisp
+
+* [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
+* [Common Lisp Recipes: A Problem Solution Approach](./Lisp/Common-Lisp-Recipes_A-Problem-Solution-Approach.pdf)
+* [Interpreting Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
+* [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land-of-Lisp_Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
+
 ## 阅读器
+
 * [neat-reader](https://www.neat-reader.cn/webapp#/)（支持阅读`.epub`格式电子书）
 * VSCode（下载`vscode-pdf`插件即可）
 
 ## 参考学习
 
-[AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) | [Datumbox](https://github.com/datumbox/datumbox-framework) | [Nalgebra](https://github.com/dimforge/nalgebra) | [Tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | [XGBoost](https://github.com/dmlc/xgboost) | [Neuronika](https://github.com/neuronika/neuronika) | [Darknet](https://github.com/pjreddie/darknet) | [pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)
+- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [datumbox/datumbox-framework](https://github.com/datumbox/datumbox-framework)
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra)
+- [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+- [dmlc/xgboost](https://github.com/dmlc/xgboost)
+- [neuronika/neuronika](https://github.com/neuronika/neuronika)
+- [pjreddie/darknet](https://github.com/pjreddie/darknet)
+- [linjing-lab/pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)
 
 ## LICENSE
 [MIT LICENSE](./LICENSE)
