@@ -72,6 +72,7 @@ Virtual bookshelf for math and computer science.
 * [Python测试驱动开发](./Python/Python测试驱动开发.pdf)
 * [Python设计模式](./Python/Python设计模式.epub)
 * [Python项目开发实战](./Python/Python项目开发实战%20第2版.epub)
+* [Django 3 By Example: Build powerful and reliable Python web applications from scratch](./Python/Django%203%20By%20Example%20Build%20powerful%20and%20reliable%20Python%20web%20applications%20from%20scratch.pdf)
 * [PyQt 5快速开发与实战](./Python/PyQt%205快速开发与实战.epub)
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
