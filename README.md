@@ -4,6 +4,15 @@ Virtual bookshelf for math and computer science.
 
 面向数学与计算机科学领域的虚拟书架。
 
+## Rust
+
+* [精通Rust](./Rust/精通Rust.pdf)
+* [Rust程序设计](./Rust/Rust程序设计.pdf)
+* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
+* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
+* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
+* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
+
 ## AI
 
 * [统计学 第六版](./AI/统计学.pdf)
@@ -63,6 +72,12 @@ Virtual bookshelf for math and computer science.
 * [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
 * [C高级编程：基于模块化设计思想的C语言开发](./C++/C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91.epub)
 
+## Git
+
+* [Git版本控制管理](./Git/Git版本控制管理.pdf)
+* [Git团队协作](./Git/Git团队协作.pdf)
+* [精通Git](./Git/PROGIT.pdf)
+
 ## Python
 
 * [Python语言及其应用](./Python/Python语言及其应用.pdf)
@@ -93,15 +108,6 @@ Virtual bookshelf for math and computer science.
 * [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
 * [CUDA专家手册：GPU编程权威指南](./CUDA/CUDA专家手册：GPU编程权威指南.epub)
 
-## Rust
-
-* [精通Rust](./Rust/精通Rust.pdf)
-* [Rust程序设计](./Rust/Rust程序设计.pdf)
-* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
-* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
-* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
-* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
-
 ## Linux
 
 * [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
@@ -109,19 +115,6 @@ Virtual bookshelf for math and computer science.
 * [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
 * [Linux/UNIX系统编程手册](./Linux/Linux-UNIX系统编程手册.pdf)
 * [UNIX环境高级编程](./Linux/UNIX环境高级编程.epub)
-
-## Lisp
-
-* [实用Common Lisp编程](./Lisp/实用Common%20Lisp编程.pdf)
-* [Common Lisp Recipes: A Problem Solution Approach](./Lisp/Common-Lisp-Recipes_A-Problem-Solution-Approach.pdf)
-* [Interpreting Lisp: Programming and Data Structures](./Lisp/Interpreting-LISP_Programming-and-Data-Structures.pdf)
-* [Land of Lisp: Learn to Program in Lisp, One Game at a Time](./Lisp/Land-of-Lisp_Learn-to-Program-in-Lisp,%20One-Game-at-a-Time.pdf)
-
-## Git
-
-* [Git版本控制管理](./Git/Git版本控制管理.pdf)
-* [Git团队协作](./Git/Git团队协作.pdf)
-* [精通Git](./Git/PROGIT.pdf)
 
 ## 阅读器
 
