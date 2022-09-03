@@ -68,6 +68,7 @@ Virtual bookshelf for math and computer science.
 * [流畅的Python](./Python/流畅的Python.pdf)
 * [Python性能优化与分析](./Python/Python性能分析与优化.epub)
 * [Python Cookbook](./Python/Python-Cookbook.pdf)
+* [Python网络数据采集](./Python/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
 * [Python网络编程攻略](./Python/Python网络编程攻略.pdf)
 * [Python测试驱动开发](./Python/Python测试驱动开发.pdf)
 * [Python设计模式](./Python/Python设计模式.epub)
