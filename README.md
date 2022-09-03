@@ -4,15 +4,6 @@ Virtual bookshelf for math and computer science.
 
 面向数学与计算机科学领域的虚拟书架。
 
-## Rust
-
-* [精通Rust](./Rust/精通Rust.pdf)
-* [Rust程序设计](./Rust/Rust程序设计.pdf)
-* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
-* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
-* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
-* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
-
 ## AI
 
 * [统计学 第六版](./AI/统计学.pdf)
@@ -57,6 +48,15 @@ Virtual bookshelf for math and computer science.
 * [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
 * [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
+
+## Rust
+
+* [精通Rust](./Rust/精通Rust.pdf)
+* [Rust程序设计](./Rust/Rust程序设计.pdf)
+* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
+* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
+* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
+* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
 
 ## C/C++
 
