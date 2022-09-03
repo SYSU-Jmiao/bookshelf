@@ -60,10 +60,9 @@ Virtual bookshelf for math and computer science.
 
 ## C/C++
 
+* [C++程序设计简明讲义 潘建瑜著](./C%2B%2B/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AE%80%E6%98%8E%E8%AE%B2%E4%B9%89%20%E6%BD%98%E5%BB%BA%E7%91%9C%E8%91%97.pdf)
 * [C专家编程](./C++/C专家编程.pdf)
 * [C和指针](./C++/C和指针.epub)
-* [C语言程序设计：零基础ACMICPC竞赛实战](./C++/C语言程序设计：零基础ACMICPC竞赛实战.pdf)
-* [C++程序设计语言](./C++/C++语言程序设计.epub)
 * [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
 * [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
 * [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
