@@ -11,6 +11,7 @@ Virtual bookshelf for math and computer science.
 * [SQL必知必会](./AI/SQL必知必会.pdf)
 * [深入浅出Pandas：利用Python进行数据处理与分析](./AI/深入浅出Pandas：利用Python进行数据处理与分析.pdf)
 * [Excel圣经](./AI/Excel-Bible.pdf)
+* [有趣的统计：75招学会数据分析](./AI/%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BB%9F%E8%AE%A1%EF%BC%9A75%E6%8B%9B%E5%AD%A6%E4%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.epub)
 * [精通特征工程](./AI/精通特征工程.pdf)
 * [机器学习 西瓜书](./AI/机器学习%20西瓜书.pdf)
 * [手把手带你学懂SVM 张皓著](./AI/%E6%89%8B%E6%8A%8A%E6%89%8B%E5%B8%A6%E4%BD%A0%E5%AD%A6%E6%87%82%20SVM%20%E5%BC%A0%E7%9A%93%E8%91%97.pdf)
