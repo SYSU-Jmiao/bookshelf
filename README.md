@@ -45,7 +45,9 @@ Virtual bookshelf for math and computer science.
 ## Math
 
 * [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
+* [数值分析讲义 潘建瑜著](./Math/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89.pdf)
 * [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
+* [Scientific Computing](./Math/Scientific%20Computing.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
 * [Matrix Computations](./Math/Matrix%20Computations.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
@@ -54,8 +56,6 @@ Virtual bookshelf for math and computer science.
 * [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
 * [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
-* [矩阵计算讲义](./Math/矩阵计算讲义.pdf)
-* [量子力学教程](./Math/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%95%99%E7%A8%8B.pdf)
 * [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
 
 ## C/C++
