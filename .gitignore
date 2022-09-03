@@ -8,6 +8,7 @@ Zlibrary.txt
 *.so
 
 # Distribution / packaging
+Math/矩阵计算讲义.pdf
 .Python
 build/
 develop-eggs/
