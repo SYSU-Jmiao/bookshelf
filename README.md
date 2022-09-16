@@ -23,6 +23,7 @@ Virtual bookshelf for math and computer science.
 * [动手学深度学习](./AI/动手学深度学习.pdf)
 * [XGBoost with Python](./AI/XGBoost%20with%20Python%20Gradient%20Boosted%20Trees%20with%20XGBoost%20and%20scikit-learn.pdf)
 * [数据科学实战](./AI/数据科学实战.pdf)
+* [Machine Learning Yearning 吴恩达著](./AI/Machine%20Learning%20Yearning.pdf)
 * [Visual-Data-Storytelling-with-Tableau](./AI/Tableau-Visual-Data-Storytelling.pdf)
 * [OpenCV计算机视觉编程攻略](./AI/OpenCV计算机视觉.pdf)
 * [Deep Learning Interviews](./AI/Deep%20Learning%20Interviews.pdf)
