@@ -45,6 +45,7 @@ Virtual bookshelf for math and computer science.
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
 * [Discrete Mathematics and Its Applications](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
 * [A Textbook of Graph Theory](./Math/A%20Textbook%20of%20Graph%20Theory.pdf)
+* [Kernel Methods for Machine Learning with Math and Python](./Math/Kernel%20Methods%20for%20Machine%20Learning%20with%20Math%20and%20Python.pdf)
 * [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
 * [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
