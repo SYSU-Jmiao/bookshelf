@@ -41,6 +41,7 @@ Virtual bookshelf for math and computer science.
 * [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
 * [Scientific Computing](./Math/Scientific%20Computing.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
+* [Algorithm Design Manual](./Math/Algorithm%20Design%20Manual.pdf)
 * [Matrix Computations](./Math/Matrix%20Computations.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
 * [Discrete Mathematics and Its Applications](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
