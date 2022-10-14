@@ -92,7 +92,6 @@ Virtual bookshelf for math and computer science.
 
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
 * [Java编程思想](./Java/Java编程思想.pdf)
-* [Java技术手册](./Java/Java技术手册%20第6版.epub)
 * [Java机器学习](./Java/Java机器学习.pdf)
 * [深度学习搜索引擎开发 Java实现](./Java/深度学习搜索引擎开发%20Java实现.pdf)
 
