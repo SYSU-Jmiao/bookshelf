@@ -4,6 +4,46 @@ Virtual bookshelf for math and computer science.
 
 面向数学与计算机科学领域的虚拟书架。
 
+## Math
+
+* [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
+* [数值分析讲义 潘建瑜著](./Math/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89.pdf)
+* [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
+* [Scientific Computing](./Math/Scientific%20Computing.pdf)
+* [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
+* [Algorithm Design Manual](./Math/Algorithm%20Design%20Manual.pdf)
+* [Matrix Computations](./Math/Matrix%20Computations.pdf)
+* [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
+* [Discrete Mathematics and Its Applications](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
+* [A Textbook of Graph Theory](./Math/A%20Textbook%20of%20Graph%20Theory.pdf)
+* [Kernel Methods for Machine Learning with Math and Python](./Math/Kernel%20Methods%20for%20Machine%20Learning%20with%20Math%20and%20Python.pdf)
+* [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
+* [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
+* [微分几何 彭家贵](./Math/微分几何.pdf)
+* [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
+
+## C/C++
+
+* [C Primer Plus](./C%2B%2B/C%20Primer%20Plus%20(6th%20Edition).pdf)
+* [C++程序设计简明讲义 潘建瑜著](./C%2B%2B/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AE%80%E6%98%8E%E8%AE%B2%E4%B9%89%20%E6%BD%98%E5%BB%BA%E7%91%9C%E8%91%97.pdf)
+* [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
+* [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
+* [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
+* [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
+* [C高级编程：基于模块化设计思想的C语言开发](./C++/C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91.epub)
+
+## CUDA
+
+* [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
+* [CUDA专家手册：GPU编程权威指南](./CUDA/CUDA专家手册：GPU编程权威指南.epub)
+
+## Linux
+
+* [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
+* [bash shell脚本编程经典实例](./Linux/bash%20shell脚本编程经典实例.pdf)
+* [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
+* [Linux/UNIX系统编程手册](./Linux/Linux-UNIX系统编程手册.pdf)
+  
 ## AI
 
 * [统计学 第六版](./AI/统计学.pdf)
@@ -34,43 +74,6 @@ Virtual bookshelf for math and computer science.
 * [The-Kaggle-Book](./AI/Kaggle-Book.pdf)
 * [Algorithms and Data Structures for Massive Datasets](./AI/Algorithms%20and%20Data%20Structures%20for%20Massive%20Datasets.epub)
 
-## Math
-
-* [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
-* [数值分析讲义 潘建瑜著](./Math/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89.pdf)
-* [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
-* [Scientific Computing](./Math/Scientific%20Computing.pdf)
-* [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
-* [Algorithm Design Manual](./Math/Algorithm%20Design%20Manual.pdf)
-* [Matrix Computations](./Math/Matrix%20Computations.pdf)
-* [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
-* [Discrete Mathematics and Its Applications](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
-* [A Textbook of Graph Theory](./Math/A%20Textbook%20of%20Graph%20Theory.pdf)
-* [Kernel Methods for Machine Learning with Math and Python](./Math/Kernel%20Methods%20for%20Machine%20Learning%20with%20Math%20and%20Python.pdf)
-* [模式识别与机器学习](./Math/模式识别与机器学习.pdf)
-* [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
-* [微分几何 彭家贵](./Math/微分几何.pdf)
-* [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
-
-## Rust
-
-* [精通Rust](./Rust/精通Rust.pdf)
-* [Rust程序设计](./Rust/Rust程序设计.pdf)
-* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
-* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
-* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
-* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
-
-## C/C++
-
-* [C Primer Plus](./C%2B%2B/C%20Primer%20Plus%20(6th%20Edition).pdf)
-* [C++程序设计简明讲义 潘建瑜著](./C%2B%2B/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AE%80%E6%98%8E%E8%AE%B2%E4%B9%89%20%E6%BD%98%E5%BB%BA%E7%91%9C%E8%91%97.pdf)
-* [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
-* [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
-* [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
-* [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
-* [C高级编程：基于模块化设计思想的C语言开发](./C++/C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91.epub)
-
 ## Python
 
 * [Python语言及其应用](./Python/Python语言及其应用.pdf)
@@ -87,30 +90,27 @@ Virtual bookshelf for math and computer science.
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
 
+## Git
+
+* [Git版本控制管理](./Git/Git版本控制管理.pdf)
+* [Git团队协作](./Git/Git团队协作.pdf)
+* [精通Git](./Git/PROGIT.pdf)
+
+## Rust
+
+* [精通Rust](./Rust/精通Rust.pdf)
+* [Rust程序设计](./Rust/Rust程序设计.pdf)
+* [Rust编程：入门、实战与进阶](./Rust/Rust编程：入门、实战与进阶.epub)
+* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Rust/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
+* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Rust/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
+* [Fullstack Rust](./Rust/Fullstack%20Rust.pdf)
+
 ## Java
 
 * [Java语言程序设计](./Java/Java语言程序设计.pdf)
 * [Java编程思想](./Java/Java编程思想.pdf)
 * [Java机器学习](./Java/Java机器学习.pdf)
 * [深度学习搜索引擎开发 Java实现](./Java/深度学习搜索引擎开发%20Java实现.pdf)
-
-## CUDA
-
-* [CUDA C编程权威指南](./CUDA/CUDA%20C编程权威指南.pdf)
-* [CUDA专家手册：GPU编程权威指南](./CUDA/CUDA专家手册：GPU编程权威指南.epub)
-
-## Linux
-
-* [Linux命令行与Shell脚本编程大全](./Linux/Linux命令行与Shell脚本编程大全.pdf)
-* [bash shell脚本编程经典实例](./Linux/bash%20shell脚本编程经典实例.pdf)
-* [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
-* [Linux/UNIX系统编程手册](./Linux/Linux-UNIX系统编程手册.pdf)
-
-## Git
-
-* [Git版本控制管理](./Git/Git版本控制管理.pdf)
-* [Git团队协作](./Git/Git团队协作.pdf)
-* [精通Git](./Git/PROGIT.pdf)
 
 ## 阅读器
 
