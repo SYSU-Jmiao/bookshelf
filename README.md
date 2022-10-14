@@ -63,21 +63,13 @@ Virtual bookshelf for math and computer science.
 
 ## C/C++
 
+* [C Primer Plus](./C%2B%2B/C%20Primer%20Plus%20(6th%20Edition).pdf)
 * [C++程序设计简明讲义 潘建瑜著](./C%2B%2B/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AE%80%E6%98%8E%E8%AE%B2%E4%B9%89%20%E6%BD%98%E5%BB%BA%E7%91%9C%E8%91%97.pdf)
-* [C专家编程](./C++/C专家编程.pdf)
-* [C和指针](./C++/C和指针.epub)
 * [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
 * [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
 * [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
-* [C++模板元编程实战：一个深度学习框架的初步实现](./C++/C++模板元编程实战：一个深度学习框架的初步实现.pdf)
 * [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
 * [C高级编程：基于模块化设计思想的C语言开发](./C++/C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%E7%9A%84C%E8%AF%AD%E8%A8%80%E5%BC%80%E5%8F%91.epub)
-
-## Git
-
-* [Git版本控制管理](./Git/Git版本控制管理.pdf)
-* [Git团队协作](./Git/Git团队协作.pdf)
-* [精通Git](./Git/PROGIT.pdf)
 
 ## Python
 
@@ -116,6 +108,12 @@ Virtual bookshelf for math and computer science.
 * [鸟哥的Linux私房菜：基础学习篇](./Linux/鸟哥的%20Linux%20私房菜：基础学习篇%20第四版.pdf)
 * [Linux/UNIX系统编程手册](./Linux/Linux-UNIX系统编程手册.pdf)
 * [UNIX环境高级编程](./Linux/UNIX环境高级编程.epub)
+
+## Git
+
+* [Git版本控制管理](./Git/Git版本控制管理.pdf)
+* [Git团队协作](./Git/Git团队协作.pdf)
+* [精通Git](./Git/PROGIT.pdf)
 
 ## 阅读器
 
