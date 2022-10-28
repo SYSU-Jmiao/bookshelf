@@ -67,6 +67,7 @@ Virtual bookshelf for math and computer science.
 * [Python语言及其应用](./Python/Python语言及其应用.pdf)
 * [流畅的Python](./Python/流畅的Python.pdf)
 * [Python性能优化与分析](./Python/Python性能分析与优化.epub)
+* [Cython - A guide for Python programmers](./Python/Cython%20-%20A%20guide%20for%20Python%20programmers.pdf)
 * [Python Cookbook](./Python/Python-Cookbook.pdf)
 * [Python网络数据采集](./Python/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.pdf)
 * [Python网络爬虫权威指南](./Python/Python%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
