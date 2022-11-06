@@ -84,6 +84,7 @@ Virtual bookshelf for math and computer science.
 * [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
 * [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
+* [Inside Deep Learning: Math, Algorithms, Models](./Math/Inside%20Deep%20Learning_Math%20Algorithms%20Models.pdf)
 
 ## Linux
 
