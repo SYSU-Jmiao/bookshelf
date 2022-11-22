@@ -75,7 +75,7 @@ Virtual bookshelf for math and computer science.
 * [CUDA C编程权威指南](./Extra/CUDA%20C编程权威指南.pdf)
 * [Java Programming](./Extra/Java%20Programming.pdf)
 * [Microservices Patterns: With examples in Java](./Extra/Microservices%20Patterns%20With%20examples%20in%20Java.pdf)
-* [精通 Rust](./Rust/精通Rust.pdf)
+* [精通 Rust](./Extra/精通Rust.pdf)
 * [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Extra/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
 * [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Extra/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
 * [Fullstack Rust](./Extra/Fullstack%20Rust.pdf)
@@ -90,7 +90,13 @@ Virtual bookshelf for math and computer science.
 ## 参考学习
 
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [linjing-lab/optimtool](https://pypi.org/project/optimtool/)
+- [google/objax](https://github.com/google/objax)
+- [linjing-lab/sortingx](https://pypi.org/project/sortingx/)
+- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
 - [linjing-lab/pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [OriginQ/QPanda-2](https://github.com/OriginQ/QPanda-2)
 
 ## LICENSE
 [MIT LICENSE](./LICENSE)
