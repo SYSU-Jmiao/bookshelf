@@ -41,7 +41,7 @@ Virtual bookshelf for math and computer science.
 * [Personalized Machine Learning by Julian McAuley](./AI/Personalized%20Machine%20Learning.pdf)
 * [Practical Recommender Systems by Kim Falk](./AI/Practical%20Recommender%20Systems.pdf)
 * [Python Deep Learning: Exploring Deep Learning Technologies and Neural Network Architectures with PyTorch, Keras, and TensorFlow](./AI/Python%20Deep%20Learning%20Exploring%20deep%20learning%20techniques,%20neural%20network%20architectures%20and%20GANs%20with%20PyTorch,%20Keras%20and....pdf)
-* [Deep Learning with JavaScript: Neural Networks in Tensorflow.js](./AI/Deep%20Learning%20with%20JavaScript_Neural%20Networks%20in%20Tensorflow.js.pdf)
+* [Deep Learning with JavaScript: Neural Networks in tensorflow.js](./AI/Deep%20Learning%20with%20JavaScript_Neural%20Networks%20in%20Tensorflow.js.pdf)
 * [Transformers for Machine Learning: A Deep Dive](./AI/Transformers%20for%20Machine%20Learning_A%20Deep%20Dive.pdf)
 * [AI for Computer Architecture: Principles, Practice, and Prospects](./AI/AI%20for%20Computer%20Architecture_Principles,%20Practice,%20and%20Prospects.pdf)
 * [Statistical Reinforcement Learning: Modern Machine Learning Approaches](./AI/Statistical%20Reinforcement%20Learning_Modern%20Machine%20Learning%20Approaches.pdf)
