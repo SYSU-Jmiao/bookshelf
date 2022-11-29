@@ -129,9 +129,10 @@ Virtual bookshelf for math and computer science.
 - [google/objax](https://github.com/google/objax)
 - [linjing-lab/sortingx](https://pypi.org/project/sortingx/)
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
-- [linjing-lab/pytorch-tutorial](https://github.com/linjing-lab/pytorch-tutorial)
+- [plumed/plumed2](https://github.com/plumed/plumed2)
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [OriginQ/QPanda-2](https://github.com/OriginQ/QPanda-2)
+- [cn.julialang.org](https://cn.julialang.org/)
 
 ## LICENSE
 [MIT LICENSE](./LICENSE)
