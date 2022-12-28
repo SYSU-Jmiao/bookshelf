@@ -112,10 +112,6 @@ Virtual bookshelf for math and computer science.
 * [Fullstack Rust](./Extra/Fullstack%20Rust.pdf)
 * [Linux命令行与Shell脚本编程大全](./Extra/Linux命令行与Shell脚本编程大全.pdf)
 * [Linux/UNIX系统编程手册](./Extra/Linux-UNIX系统编程手册.pdf)
-* [Build A Career in Data Science](./Extra/Build%20A%20Career%20in%20Data%20Science.pdf)
-* [The A-Z of the Phd Trajectory](./Extra/The%20A-Z%20of%20the%20Phd%20Trajectory.pdf)
-* [The Great Tech Rivalry: China vs the US](./Extra/The%20Great%20Tech%20Rivalry_China%20vs%20the%20US.pdf)
-* [Tips for prospective and early-stage PhD students: how to get started in ML&DL related research](./Extra/Tips%20for%20prospective%20and%20early-stage%20PhD%20students_how%20to%20get%20started%20in%20ML&DL%20related%20research.pdf)
 
 ## 阅读器
 
