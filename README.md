@@ -121,9 +121,12 @@ Virtual bookshelf for math and computer science.
 ## 参考学习
 
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra)
+- [numpy/numpy](https://github.com/numpy/numpy)
 - [linjing-lab/optimtool](https://pypi.org/project/optimtool/)
 - [google/objax](https://github.com/google/objax)
 - [linjing-lab/sortingx](https://pypi.org/project/sortingx/)
+- [feature-engine/feature_engine](https://github.com/feature-engine/feature_engine)
 - [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
 - [plumed/plumed2](https://github.com/plumed/plumed2)
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
